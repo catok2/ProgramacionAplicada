@@ -1,0 +1,5 @@
+FiguraGeometrica: Utilizar la clase FiguraGeometrica del ejercicio de
+abstracción y crear un método muestre información específica de la
+figura utilizando polimorfismo. Luego, crear una lista de figuras
+geométricas de diferentes tipos y utilizar el polimorfismo para imprimir
+su información

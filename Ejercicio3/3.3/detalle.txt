@@ -1,0 +1,3 @@
+Coche: Crear la clase Coche con atributos privados y/o públicos según
+corresponda de velocidad y kilometraje. Definir métodos públicos para
+acelerar y registrar el kilometraje de manera segura.

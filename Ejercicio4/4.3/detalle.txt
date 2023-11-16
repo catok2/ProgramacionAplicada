@@ -1,0 +1,5 @@
+Empleado: Utilizar la clase Empleado del ejercicio de herencia y aplicar
+polimorfismo para calcular el salario de acuerdo con las reglas
+específicas de cada tipo de empleado. Luego, crear una lista de
+empleados de diferentes tipos y utilizar el polimorfismo para calcular
+sus salarios.

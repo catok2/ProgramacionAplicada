@@ -1,0 +1,3 @@
+CuentaBancaria: Crear la clase CuentaBancaria con atributos privados y
+públicos para el saldo y titular. Definir métodos para depositar, retirar y
+consultar el saldo de la cuenta

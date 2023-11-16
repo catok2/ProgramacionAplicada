@@ -1,0 +1,4 @@
+Animal: Utilizar las clases Animal, Perro, Gato y Pájaro. Se debe incluir
+atributos como nombre y edad. Las subclases deben heredar y definir
+métodos y atributos relacionados con el comportamiento y
+características de cada tipo de animal

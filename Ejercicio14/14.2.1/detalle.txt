@@ -1,0 +1,2 @@
+Para cada caso anterior del manejo de excepciones (14.1.1, 14.1.2,
+14.1.3, 14.1.4, 14.1.5) crear una excepción personalizada.

@@ -1,0 +1,5 @@
+Forma: Implementar las clases Forma, Circulo y Rectangulo. La o las
+clases deben contener atributos como color y dimensiones. Las
+subclases deben heredar y definir métodos y atributos para calcular el
+1
+área y el perímetro de cada forma.

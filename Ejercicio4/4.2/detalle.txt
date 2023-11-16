@@ -1,0 +1,4 @@
+Animal: Utilizar la clase Animal del ejercicio de herencia y aplicar
+polimorfismo para realizar el sonido característico del animal. Luego,
+crear una lista de animales de diferentes tipos y utilizar el polimorfismo
+para hacer que emiten sus sonidos.

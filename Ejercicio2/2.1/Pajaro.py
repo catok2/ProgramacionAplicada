@@ -7,8 +7,3 @@ class Pajaro(Animal):
     def caminar(self):
       print(f'El pajaro {self._nombre} camina en dos patas')     
 
-
-
-p = Pajaro('pepe', 12, 4)
-
-p.caminar()

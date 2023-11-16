@@ -1,0 +1,2 @@
+Hacer un decorador para verificar que los argumentos de una función
+sean del tipo correcto
