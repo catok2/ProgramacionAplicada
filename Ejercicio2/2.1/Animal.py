@@ -1,16 +1,24 @@
 class Animal:
-    def __init__(self):
-        pass
+     def __init__(self, nombre , edad):
+        self._nombre = nombre
+        self._edad = edad
+
+     @property
+     def nombre(self):
+         return self._nombre
+     
+     def set_nombre(self,nombre):
+          self._nombre = nombre
+
+     @property
+     def edad(self):
+         return self._edad
+     
+     def set_edad(self,edad):
+          self._edad = edad   
+
+     def caminar(self):
+         pass     
 
 
 
-class Perro(Animal):
-     pass
-
-
-class Gato(Animal):
-     pass
-
-
-class Pajaro(Animal):
-     pass
