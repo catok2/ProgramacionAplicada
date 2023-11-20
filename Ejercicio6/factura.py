@@ -1,3 +1,5 @@
+from cliente import Cliente
+
 class factura:
     gen_codFactura = 0
 
@@ -6,17 +8,23 @@ class factura:
         cls.gen_codFactura += 1
         return cls.gen_codFactura
     
-    def __init__(self , cliente , carrito):
+    def __init__(self , cliente):
         self._idfactura = factura.gen_codfactura()
-        self._carrito = carrito
         self._cliente = cliente
-        
+        self.totFactura = self.genFactura()
+
+
+
     def anula_factura(self):
         pass
     
     
     def genFactura(self):
-        pass
+        total = 0
+        for producto in self._cliente.carrito.productos:
+            total += producto.precio
+        return total    
+
     
         
         

@@ -1,5 +1,5 @@
 class CarritoCompra():
-    def __init__(self, ):
+    def __init__(self ):
         self._productos = []
 
     def agregar_producto(self, producto:object):
@@ -13,6 +13,7 @@ class CarritoCompra():
         if not isinstance(producto,object): 
             raise TypeError("Error removiendo producto del Carrito")
         self._productos.remove(producto)
+
 
     @property    
     def productos(self):    
