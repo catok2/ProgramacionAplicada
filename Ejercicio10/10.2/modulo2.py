@@ -1,3 +1,5 @@
-from .modulo1 import saludar
+from .modulo1 import despedir  
 
-saludar()
+def saludar():
+    print("Hola desde el módulo 2")
+    despedir()

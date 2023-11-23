@@ -1,2 +1,4 @@
-def saludar():
-    print("Hola desde modulo1")
+
+
+def despedir():
+    print("Hola desde el módulo 1")

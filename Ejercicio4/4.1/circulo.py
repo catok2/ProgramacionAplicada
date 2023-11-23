@@ -18,4 +18,5 @@ class Circulo(FiguraGeometrica):
         return 2 * PI *  (self._diametro/2)
     
     def informacion(self):
+        
         print(f"Estas imprimiendo un Circulo ")
