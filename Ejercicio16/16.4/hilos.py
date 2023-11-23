@@ -15,7 +15,6 @@ def segunda_funcion():
 hilo_1 = threading.Thread(target=primer_funcion)
 hilo_2 = threading.Thread(target=segunda_funcion)
 
-
 hilo_1.start()
 hilo_2.start()
 

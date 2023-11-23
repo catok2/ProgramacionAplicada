@@ -13,7 +13,6 @@ def suma_primos_hasta(num):
             suma += i
     return suma
 
-# Ejemplo de uso
 numero_deseado = 12
 resultado = suma_primos_hasta(numero_deseado)
 print(f"La suma de los números primos hasta {numero_deseado} es: {resultado}")
